@@ -1,2 +1,2 @@
-# Gestion_Librairie
-Projet de gestion de livres de la bibliothèque de l'ENSIAS en langage C.
+# Library_Management
+Project to manage the books of the ENSIAS library in C language.
